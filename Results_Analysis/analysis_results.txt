@@ -1,0 +1,1744 @@
+RISULTATI DELL'ANALISI DELLE CARATTERISTICHE
+============================================================
+Caratteristiche totali analizzate: 16
+File totali da processare: 8
+
+
+Processando file: risultati_finali_cluster/kitchen_vettoriNONpuliti_centroidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 6000
+Cluster trovati: [0, 1, 2, 3, 4, 5]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.837, F1=0.911 (TP:837, FP:0, FN:163, TN:0)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:368, FN:0, TN:632)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:100, FN:0, TN:900)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:43, FN:0, TN:957)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:34, FN:0, TN:966)
+  toxicity_low: P=1.000, R=0.903, F1=0.949 (TP:903, FP:0, FN:97, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:30, FN:0, TN:970)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  creativity_low: P=1.000, R=0.260, F1=0.413 (TP:260, FP:0, FN:740, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:641, FN:0, TN:359)
+  creativity_high: P=1.000, R=0.080, F1=0.148 (TP:80, FP:0, FN:920, TN:0)
+  readability_excellent: P=1.000, R=0.108, F1=0.195 (TP:108, FP:0, FN:892, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:325, FN:0, TN:675)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:374, FN:0, TN:626)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:174, FN:0, TN:826)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.813, F1=0.897 (TP:813, FP:0, FN:187, TN:0)
+  Calm & Curious: P=1.000, R=0.574, F1=0.729 (TP:574, FP:0, FN:426, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:100, FN:0, TN:900)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:35, FN:0, TN:965)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  toxicity_low: P=1.000, R=0.908, F1=0.952 (TP:908, FP:0, FN:92, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:256, FN:0, TN:744)
+  creativity_medium: P=1.000, R=0.678, F1=0.808 (TP:678, FP:0, FN:322, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:53, FN:0, TN:947)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:342, FN:0, TN:658)
+  readability_average: P=1.000, R=0.417, F1=0.589 (TP:417, FP:0, FN:583, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:148, FN:0, TN:852)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.866, F1=0.928 (TP:866, FP:0, FN:134, TN:0)
+  Calm & Curious: P=1.000, R=0.517, F1=0.682 (TP:517, FP:0, FN:483, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:70, FN:0, TN:930)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:22, FN:0, TN:978)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:41, FN:0, TN:959)
+  toxicity_low: P=1.000, R=0.938, F1=0.968 (TP:938, FP:0, FN:62, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:24, FN:0, TN:976)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:16, FN:0, TN:984)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:224, FN:0, TN:776)
+  creativity_medium: P=1.000, R=0.727, F1=0.842 (TP:727, FP:0, FN:273, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:42, FN:0, TN:958)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:85, FN:0, TN:915)
+  readability_good: P=1.000, R=0.362, F1=0.532 (TP:362, FP:0, FN:638, TN:0)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:370, FN:0, TN:630)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:174, FN:0, TN:826)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:169, FN:0, TN:831)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:651, FN:0, TN:349)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:476, FN:0, TN:524)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:235, FN:0, TN:765)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:94, FN:0, TN:906)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:579, FN:0, TN:421)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:142, FN:0, TN:858)
+  toxicity_high: P=1.000, R=0.097, F1=0.177 (TP:97, FP:0, FN:903, TN:0)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:226, FN:0, TN:774)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:289, FN:0, TN:711)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:199, FN:0, TN:801)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:177, FN:0, TN:823)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:135, FN:0, TN:865)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:302, FN:0, TN:698)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:84, FN:0, TN:916)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.877, F1=0.934 (TP:877, FP:0, FN:123, TN:0)
+  Calm & Curious: P=1.000, R=0.510, F1=0.675 (TP:510, FP:0, FN:490, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:86, FN:0, TN:914)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:28, FN:0, TN:972)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  toxicity_low: P=1.000, R=0.937, F1=0.967 (TP:937, FP:0, FN:63, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:19, FN:0, TN:981)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:21, FN:0, TN:979)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:226, FN:0, TN:774)
+  creativity_medium: P=1.000, R=0.719, F1=0.837 (TP:719, FP:0, FN:281, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:51, FN:0, TN:949)
+  readability_excellent: P=1.000, R=0.089, F1=0.163 (TP:89, FP:0, FN:911, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:343, FN:0, TN:657)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:422, FN:0, TN:578)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:135, FN:0, TN:865)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 5 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.807, F1=0.893 (TP:807, FP:0, FN:193, TN:0)
+  Calm & Curious: P=1.000, R=0.567, F1=0.724 (TP:567, FP:0, FN:433, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:108, FN:0, TN:892)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:39, FN:0, TN:961)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:42, FN:0, TN:958)
+  toxicity_low: P=1.000, R=0.905, F1=0.950 (TP:905, FP:0, FN:95, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:26, FN:0, TN:974)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:40, FN:0, TN:960)
+  creativity_low: P=1.000, R=0.246, F1=0.395 (TP:246, FP:0, FN:754, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:691, FN:0, TN:309)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:48, FN:0, TN:952)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:60, FN:0, TN:940)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:304, FN:0, TN:696)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:421, FN:0, TN:579)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:188, FN:0, TN:812)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 4200, FP: 169, FN: 800, TN: 831
+  Precisione: 0.9613
+  Recall: 0.8400
+  F1-Score: 0.8966
+
+Calm & Curious:
+  Matrice di Confusione - TP: 2168, FP: 1019, FN: 1832, TN: 981
+  Precisione: 0.6803
+  Recall: 0.5420
+  F1-Score: 0.6033
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 0, FP: 940, FN: 0, TN: 5060
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 402, FN: 0, TN: 5598
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 271, FN: 0, TN: 5729
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 4591, FP: 579, FN: 409, TN: 421
+  Precisione: 0.8880
+  Recall: 0.9182
+  F1-Score: 0.9029
+
+toxicity_medium:
+  Matrice di Confusione - TP: 0, FP: 270, FN: 0, TN: 5730
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_high:
+  Matrice di Confusione - TP: 97, FP: 137, FN: 903, TN: 4863
+  Precisione: 0.4145
+  Recall: 0.0970
+  F1-Score: 0.1572
+
+creativity_low:
+  Matrice di Confusione - TP: 506, FP: 932, FN: 1494, TN: 3068
+  Precisione: 0.3519
+  Recall: 0.2530
+  F1-Score: 0.2944
+
+creativity_medium:
+  Matrice di Confusione - TP: 2124, FP: 1621, FN: 876, TN: 1379
+  Precisione: 0.5672
+  Recall: 0.7080
+  F1-Score: 0.6298
+
+creativity_high:
+  Matrice di Confusione - TP: 80, FP: 393, FN: 920, TN: 4607
+  Precisione: 0.1691
+  Recall: 0.0800
+  F1-Score: 0.1086
+
+readability_excellent:
+  Matrice di Confusione - TP: 197, FP: 399, FN: 1803, TN: 3601
+  Precisione: 0.3305
+  Recall: 0.0985
+  F1-Score: 0.1518
+
+readability_good:
+  Matrice di Confusione - TP: 362, FP: 1449, FN: 638, TN: 3551
+  Precisione: 0.1999
+  Recall: 0.3620
+  F1-Score: 0.2576
+
+readability_average:
+  Matrice di Confusione - TP: 417, FP: 1889, FN: 583, TN: 3111
+  Precisione: 0.1808
+  Recall: 0.4170
+  F1-Score: 0.2523
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 903, FN: 0, TN: 5097
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 6000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/kitchen_vettoriNONpuliti_medoidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 5000
+Cluster trovati: [0, 1, 2, 3, 4]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:817, FN:0, TN:183)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:497, FN:0, TN:503)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:113, FN:0, TN:887)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:48, FN:0, TN:952)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:34, FN:0, TN:966)
+  toxicity_low: P=1.000, R=0.910, F1=0.953 (TP:910, FP:0, FN:90, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:48, FN:0, TN:952)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:20, FN:0, TN:980)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:226, FN:0, TN:774)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:712, FN:0, TN:288)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:49, FN:0, TN:951)
+  readability_excellent: P=1.000, R=0.127, F1=0.225 (TP:127, FP:0, FN:873, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:369, FN:0, TN:631)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:375, FN:0, TN:625)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:110, FN:0, TN:890)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:731, FN:0, TN:269)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:581, FN:0, TN:419)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:172, FN:0, TN:828)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:111, FN:0, TN:889)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:45, FN:0, TN:955)
+  toxicity_low: P=1.000, R=0.907, F1=0.951 (TP:907, FP:0, FN:93, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:48, FN:0, TN:952)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:23, FN:0, TN:977)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:229, FN:0, TN:771)
+  creativity_medium: P=1.000, R=0.716, F1=0.834 (TP:716, FP:0, FN:284, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:39, FN:0, TN:961)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:72, FN:0, TN:928)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:342, FN:0, TN:658)
+  readability_average: P=1.000, R=0.424, F1=0.596 (TP:424, FP:0, FN:576, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:150, FN:0, TN:850)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:749, FN:0, TN:251)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:471, FN:0, TN:529)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:143, FN:0, TN:857)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:92, FN:0, TN:908)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:41, FN:0, TN:959)
+  toxicity_low: P=1.000, R=0.873, F1=0.932 (TP:873, FP:0, FN:127, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:61, FN:0, TN:939)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:39, FN:0, TN:961)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:251, FN:0, TN:749)
+  creativity_medium: P=1.000, R=0.683, F1=0.812 (TP:683, FP:0, FN:317, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:47, FN:0, TN:953)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:82, FN:0, TN:918)
+  readability_good: P=1.000, R=0.356, F1=0.525 (TP:356, FP:0, FN:644, TN:0)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:401, FN:0, TN:599)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:135, FN:0, TN:865)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.904, F1=0.950 (TP:904, FP:0, FN:96, TN:0)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:373, FN:0, TN:627)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:20, FN:0, TN:980)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:34, FN:0, TN:966)
+  toxicity_low: P=1.000, R=0.929, F1=0.963 (TP:929, FP:0, FN:71, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:24, FN:0, TN:976)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:25, FN:0, TN:975)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:228, FN:0, TN:772)
+  creativity_medium: P=1.000, R=0.701, F1=0.824 (TP:701, FP:0, FN:299, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:60, FN:0, TN:940)
+  readability_excellent: P=1.000, R=0.106, F1=0.192 (TP:106, FP:0, FN:894, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:370, FN:0, TN:630)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:358, FN:0, TN:642)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:153, FN:0, TN:847)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.860, F1=0.925 (TP:860, FP:0, FN:140, TN:0)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:403, FN:0, TN:597)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:78, FN:0, TN:922)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:35, FN:0, TN:965)
+  toxicity_low: P=1.000, R=0.933, F1=0.965 (TP:933, FP:0, FN:67, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:17, FN:0, TN:983)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:21, FN:0, TN:979)
+  creativity_low: P=1.000, R=0.247, F1=0.396 (TP:247, FP:0, FN:753, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:698, FN:0, TN:302)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:38, FN:0, TN:962)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:66, FN:0, TN:934)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:321, FN:0, TN:679)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:409, FN:0, TN:591)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:177, FN:0, TN:823)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 1764, FP: 2297, FN: 236, TN: 703
+  Precisione: 0.4344
+  Recall: 0.8820
+  F1-Score: 0.5821
+
+Calm & Curious:
+  Matrice di Confusione - TP: 0, FP: 2325, FN: 0, TN: 2675
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 0, FP: 583, FN: 0, TN: 4417
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 300, FN: 0, TN: 4700
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 189, FN: 0, TN: 4811
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 4552, FP: 0, FN: 448, TN: 0
+  Precisione: 1.0000
+  Recall: 0.9104
+  F1-Score: 0.9531
+
+toxicity_medium:
+  Matrice di Confusione - TP: 0, FP: 198, FN: 0, TN: 4802
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_high:
+  Matrice di Confusione - TP: 0, FP: 128, FN: 0, TN: 4872
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+creativity_low:
+  Matrice di Confusione - TP: 247, FP: 934, FN: 753, TN: 3066
+  Precisione: 0.2091
+  Recall: 0.2470
+  F1-Score: 0.2265
+
+creativity_medium:
+  Matrice di Confusione - TP: 2100, FP: 1410, FN: 900, TN: 590
+  Precisione: 0.5983
+  Recall: 0.7000
+  F1-Score: 0.6452
+
+creativity_high:
+  Matrice di Confusione - TP: 0, FP: 233, FN: 0, TN: 4767
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_excellent:
+  Matrice di Confusione - TP: 233, FP: 220, FN: 1767, TN: 2780
+  Precisione: 0.5143
+  Recall: 0.1165
+  F1-Score: 0.1900
+
+readability_good:
+  Matrice di Confusione - TP: 356, FP: 1402, FN: 644, TN: 2598
+  Precisione: 0.2025
+  Recall: 0.3560
+  F1-Score: 0.2582
+
+readability_average:
+  Matrice di Confusione - TP: 424, FP: 1543, FN: 576, TN: 2457
+  Precisione: 0.2156
+  Recall: 0.4240
+  F1-Score: 0.2858
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 725, FN: 0, TN: 4275
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 5000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/kitchen_vettoripuliti_centroidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 6000
+Cluster trovati: [0, 1, 2, 3, 4, 5]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.795, F1=0.886 (TP:795, FP:0, FN:205, TN:0)
+  Calm & Curious: P=1.000, R=0.560, F1=0.718 (TP:560, FP:0, FN:440, TN:0)
+  Agitated/Reactive: P=1.000, R=0.087, F1=0.160 (TP:87, FP:0, FN:913, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:44, FN:0, TN:956)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:26, FN:0, TN:974)
+  toxicity_low: P=1.000, R=0.913, F1=0.955 (TP:913, FP:0, FN:87, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:27, FN:0, TN:973)
+  creativity_low: P=1.000, R=0.262, F1=0.415 (TP:262, FP:0, FN:738, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:653, FN:0, TN:347)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:71, FN:0, TN:929)
+  readability_excellent: P=1.000, R=0.105, F1=0.190 (TP:105, FP:0, FN:895, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:312, FN:0, TN:688)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:374, FN:0, TN:626)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:191, FN:0, TN:809)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.776, F1=0.874 (TP:776, FP:0, FN:224, TN:0)
+  Calm & Curious: P=1.000, R=0.556, F1=0.715 (TP:556, FP:0, FN:444, TN:0)
+  Agitated/Reactive: P=1.000, R=0.103, F1=0.187 (TP:103, FP:0, FN:897, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:58, FN:0, TN:942)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:45, FN:0, TN:955)
+  toxicity_low: P=1.000, R=0.918, F1=0.957 (TP:918, FP:0, FN:82, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:32, FN:0, TN:968)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:22, FN:0, TN:978)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:265, FN:0, TN:735)
+  creativity_medium: P=1.000, R=0.638, F1=0.779 (TP:638, FP:0, FN:362, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:79, FN:0, TN:921)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:321, FN:0, TN:679)
+  readability_average: P=1.000, R=0.367, F1=0.537 (TP:367, FP:0, FN:633, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:205, FN:0, TN:795)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.845, F1=0.916 (TP:845, FP:0, FN:155, TN:0)
+  Calm & Curious: P=1.000, R=0.513, F1=0.678 (TP:513, FP:0, FN:487, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:87, FN:0, TN:913)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:27, FN:0, TN:973)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:28, FN:0, TN:972)
+  toxicity_low: P=1.000, R=0.943, F1=0.971 (TP:943, FP:0, FN:57, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:17, FN:0, TN:983)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:16, FN:0, TN:984)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:197, FN:0, TN:803)
+  creativity_medium: P=1.000, R=0.720, F1=0.837 (TP:720, FP:0, FN:280, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:68, FN:0, TN:932)
+  readability_excellent: P=1.000, R=0.084, F1=0.155 (TP:84, FP:0, FN:916, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:392, FN:0, TN:608)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:351, FN:0, TN:649)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:155, FN:0, TN:845)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.856, F1=0.922 (TP:856, FP:0, FN:144, TN:0)
+  Calm & Curious: P=1.000, R=0.521, F1=0.685 (TP:521, FP:0, FN:479, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:75, FN:0, TN:925)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:26, FN:0, TN:974)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:38, FN:0, TN:962)
+  toxicity_low: P=1.000, R=0.919, F1=0.958 (TP:919, FP:0, FN:81, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:28, FN:0, TN:972)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:20, FN:0, TN:980)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:215, FN:0, TN:785)
+  creativity_medium: P=1.000, R=0.726, F1=0.841 (TP:726, FP:0, FN:274, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:51, FN:0, TN:949)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:75, FN:0, TN:925)
+  readability_good: P=1.000, R=0.351, F1=0.520 (TP:351, FP:0, FN:649, TN:0)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:385, FN:0, TN:615)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:171, FN:0, TN:829)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.842, F1=0.914 (TP:842, FP:0, FN:158, TN:0)
+  Calm & Curious: P=1.000, R=0.520, F1=0.684 (TP:520, FP:0, FN:480, TN:0)
+  Agitated/Reactive: P=1.000, R=0.086, F1=0.158 (TP:86, FP:0, FN:914, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:38, FN:0, TN:962)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  toxicity_low: P=1.000, R=0.924, F1=0.960 (TP:924, FP:0, FN:76, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:33, FN:0, TN:967)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:15, FN:0, TN:985)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:197, FN:0, TN:803)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:711, FN:0, TN:289)
+  creativity_high: P=1.000, R=0.080, F1=0.148 (TP:80, FP:0, FN:920, TN:0)
+  readability_excellent: P=1.000, R=0.107, F1=0.193 (TP:107, FP:0, FN:893, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:335, FN:0, TN:665)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:374, FN:0, TN:626)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:164, FN:0, TN:836)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 5 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.786, F1=0.880 (TP:786, FP:0, FN:214, TN:0)
+  Calm & Curious: P=1.000, R=0.599, F1=0.749 (TP:599, FP:0, FN:401, TN:0)
+  Agitated/Reactive: P=1.000, R=0.103, F1=0.187 (TP:103, FP:0, FN:897, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:62, FN:0, TN:938)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:40, FN:0, TN:960)
+  toxicity_low: P=1.000, R=0.925, F1=0.961 (TP:925, FP:0, FN:75, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:24, FN:0, TN:976)
+  creativity_low: P=1.000, R=0.289, F1=0.448 (TP:289, FP:0, FN:711, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:658, FN:0, TN:342)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:47, FN:0, TN:953)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:74, FN:0, TN:926)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:327, FN:0, TN:673)
+  readability_average: P=1.000, R=0.419, F1=0.591 (TP:419, FP:0, FN:581, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:164, FN:0, TN:836)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 4900, FP: 0, FN: 1100, TN: 0
+  Precisione: 1.0000
+  Recall: 0.8167
+  F1-Score: 0.8991
+
+Calm & Curious:
+  Matrice di Confusione - TP: 3269, FP: 0, FN: 2731, TN: 0
+  Precisione: 1.0000
+  Recall: 0.5448
+  F1-Score: 0.7054
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 379, FP: 162, FN: 3621, TN: 1838
+  Precisione: 0.7006
+  Recall: 0.0948
+  F1-Score: 0.1669
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 255, FN: 0, TN: 5745
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 208, FN: 0, TN: 5792
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 5542, FP: 0, FN: 458, TN: 0
+  Precisione: 1.0000
+  Recall: 0.9237
+  F1-Score: 0.9603
+
+toxicity_medium:
+  Matrice di Confusione - TP: 0, FP: 172, FN: 0, TN: 5828
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_high:
+  Matrice di Confusione - TP: 0, FP: 124, FN: 0, TN: 5876
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+creativity_low:
+  Matrice di Confusione - TP: 551, FP: 874, FN: 1449, TN: 3126
+  Precisione: 0.3867
+  Recall: 0.2755
+  F1-Score: 0.3218
+
+creativity_medium:
+  Matrice di Confusione - TP: 2084, FP: 2022, FN: 916, TN: 978
+  Precisione: 0.5075
+  Recall: 0.6947
+  F1-Score: 0.5865
+
+creativity_high:
+  Matrice di Confusione - TP: 80, FP: 314, FN: 920, TN: 4686
+  Precisione: 0.2030
+  Recall: 0.0800
+  F1-Score: 0.1148
+
+readability_excellent:
+  Matrice di Confusione - TP: 296, FP: 228, FN: 2704, TN: 2772
+  Precisione: 0.5649
+  Recall: 0.0987
+  F1-Score: 0.1680
+
+readability_good:
+  Matrice di Confusione - TP: 351, FP: 1687, FN: 649, TN: 3313
+  Precisione: 0.1722
+  Recall: 0.3510
+  F1-Score: 0.2311
+
+readability_average:
+  Matrice di Confusione - TP: 786, FP: 1484, FN: 1214, TN: 2516
+  Precisione: 0.3463
+  Recall: 0.3930
+  F1-Score: 0.3681
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 1050, FN: 0, TN: 4950
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 6000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/kitchen_vettoripuliti_medoidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 6000
+Cluster trovati: [0, 1, 2, 3, 4, 5]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.877, F1=0.934 (TP:877, FP:0, FN:123, TN:0)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:345, FN:0, TN:655)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:42, FN:0, TN:958)
+  toxicity_low: P=1.000, R=0.912, F1=0.954 (TP:912, FP:0, FN:88, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:31, FN:0, TN:969)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:32, FN:0, TN:968)
+  creativity_low: P=1.000, R=0.265, F1=0.419 (TP:265, FP:0, FN:735, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:661, FN:0, TN:339)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:65, FN:0, TN:935)
+  readability_excellent: P=1.000, R=0.100, F1=0.182 (TP:100, FP:0, FN:900, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:352, FN:0, TN:648)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:360, FN:0, TN:640)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:168, FN:0, TN:832)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.813, F1=0.897 (TP:813, FP:0, FN:187, TN:0)
+  Calm & Curious: P=1.000, R=0.574, F1=0.729 (TP:574, FP:0, FN:426, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:100, FN:0, TN:900)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:33, FN:0, TN:967)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  toxicity_low: P=1.000, R=0.910, F1=0.953 (TP:910, FP:0, FN:90, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:256, FN:0, TN:744)
+  creativity_medium: P=1.000, R=0.678, F1=0.808 (TP:678, FP:0, FN:322, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:53, FN:0, TN:947)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:342, FN:0, TN:658)
+  readability_average: P=1.000, R=0.417, F1=0.589 (TP:417, FP:0, FN:583, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:148, FN:0, TN:852)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.845, F1=0.916 (TP:845, FP:0, FN:155, TN:0)
+  Calm & Curious: P=1.000, R=0.513, F1=0.678 (TP:513, FP:0, FN:487, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:87, FN:0, TN:913)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:26, FN:0, TN:974)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:28, FN:0, TN:972)
+  toxicity_low: P=1.000, R=0.944, F1=0.971 (TP:944, FP:0, FN:56, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:17, FN:0, TN:983)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:16, FN:0, TN:984)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:197, FN:0, TN:803)
+  creativity_medium: P=1.000, R=0.720, F1=0.837 (TP:720, FP:0, FN:280, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:68, FN:0, TN:932)
+  readability_excellent: P=1.000, R=0.084, F1=0.155 (TP:84, FP:0, FN:916, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:392, FN:0, TN:608)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:351, FN:0, TN:649)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:155, FN:0, TN:845)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.856, F1=0.922 (TP:856, FP:0, FN:144, TN:0)
+  Calm & Curious: P=1.000, R=0.521, F1=0.685 (TP:521, FP:0, FN:479, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:75, FN:0, TN:925)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:25, FN:0, TN:975)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:38, FN:0, TN:962)
+  toxicity_low: P=1.000, R=0.920, F1=0.958 (TP:920, FP:0, FN:80, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:28, FN:0, TN:972)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:20, FN:0, TN:980)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:215, FN:0, TN:785)
+  creativity_medium: P=1.000, R=0.726, F1=0.841 (TP:726, FP:0, FN:274, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:51, FN:0, TN:949)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:75, FN:0, TN:925)
+  readability_good: P=1.000, R=0.351, F1=0.520 (TP:351, FP:0, FN:649, TN:0)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:385, FN:0, TN:615)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:171, FN:0, TN:829)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.888, F1=0.941 (TP:888, FP:0, FN:112, TN:0)
+  Calm & Curious: P=1.000, R=0.504, F1=0.670 (TP:504, FP:0, FN:496, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:89, FN:0, TN:911)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:32, FN:0, TN:968)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:39, FN:0, TN:961)
+  toxicity_low: P=1.000, R=0.926, F1=0.962 (TP:926, FP:0, FN:74, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:18, FN:0, TN:982)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:27, FN:0, TN:973)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:189, FN:0, TN:811)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:732, FN:0, TN:268)
+  creativity_high: P=1.000, R=0.073, F1=0.136 (TP:73, FP:0, FN:927, TN:0)
+  readability_excellent: P=1.000, R=0.097, F1=0.177 (TP:97, FP:0, FN:903, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:353, FN:0, TN:647)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:391, FN:0, TN:609)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:137, FN:0, TN:863)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 5 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.790, F1=0.883 (TP:790, FP:0, FN:210, TN:0)
+  Calm & Curious: P=1.000, R=0.553, F1=0.712 (TP:553, FP:0, FN:447, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:87, FN:0, TN:913)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:35, FN:0, TN:965)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:39, FN:0, TN:961)
+  toxicity_low: P=1.000, R=0.927, F1=0.962 (TP:927, FP:0, FN:73, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:29, FN:0, TN:971)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:22, FN:0, TN:978)
+  creativity_low: P=1.000, R=0.244, F1=0.392 (TP:244, FP:0, FN:756, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:705, FN:0, TN:295)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:40, FN:0, TN:960)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:77, FN:0, TN:923)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:360, FN:0, TN:640)
+  readability_average: P=1.000, R=0.389, F1=0.560 (TP:389, FP:0, FN:611, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:162, FN:0, TN:838)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 5069, FP: 0, FN: 931, TN: 0
+  Precisione: 1.0000
+  Recall: 0.8448
+  F1-Score: 0.9159
+
+Calm & Curious:
+  Matrice di Confusione - TP: 2665, FP: 345, FN: 2335, TN: 655
+  Precisione: 0.8854
+  Recall: 0.5330
+  F1-Score: 0.6654
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 0, FP: 515, FN: 0, TN: 5485
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 182, FN: 0, TN: 5818
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 215, FN: 0, TN: 5785
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 5539, FP: 0, FN: 461, TN: 0
+  Precisione: 1.0000
+  Recall: 0.9232
+  F1-Score: 0.9600
+
+toxicity_medium:
+  Matrice di Confusione - TP: 0, FP: 152, FN: 0, TN: 5848
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_high:
+  Matrice di Confusione - TP: 0, FP: 146, FN: 0, TN: 5854
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+creativity_low:
+  Matrice di Confusione - TP: 509, FP: 857, FN: 1491, TN: 3143
+  Precisione: 0.3726
+  Recall: 0.2545
+  F1-Score: 0.3024
+
+creativity_medium:
+  Matrice di Confusione - TP: 2124, FP: 2098, FN: 876, TN: 902
+  Precisione: 0.5031
+  Recall: 0.7080
+  F1-Score: 0.5882
+
+creativity_high:
+  Matrice di Confusione - TP: 73, FP: 277, FN: 927, TN: 4723
+  Precisione: 0.2086
+  Recall: 0.0730
+  F1-Score: 0.1081
+
+readability_excellent:
+  Matrice di Confusione - TP: 281, FP: 229, FN: 2719, TN: 2771
+  Precisione: 0.5510
+  Recall: 0.0937
+  F1-Score: 0.1601
+
+readability_good:
+  Matrice di Confusione - TP: 351, FP: 1799, FN: 649, TN: 3201
+  Precisione: 0.1633
+  Recall: 0.3510
+  F1-Score: 0.2229
+
+readability_average:
+  Matrice di Confusione - TP: 806, FP: 1487, FN: 1194, TN: 2513
+  Precisione: 0.3515
+  Recall: 0.4030
+  F1-Score: 0.3755
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 941, FN: 0, TN: 5059
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 6000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/police_vettoriNONpuliti_centroidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 4000
+Cluster trovati: [0, 1, 2, 3]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:150, FN:0, TN:850)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:628, FN:0, TN:372)
+  Agitated/Reactive: P=1.000, R=0.518, F1=0.682 (TP:518, FP:0, FN:482, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:259, FN:0, TN:741)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:98, FN:0, TN:902)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:685, FN:0, TN:315)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:119, FN:0, TN:881)
+  toxicity_high: P=1.000, R=0.075, F1=0.140 (TP:75, FP:0, FN:925, TN:0)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:333, FN:0, TN:667)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:317, FN:0, TN:683)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:151, FN:0, TN:849)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:147, FN:0, TN:853)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:178, FN:0, TN:822)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:327, FN:0, TN:673)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:109, FN:0, TN:891)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.499, F1=0.666 (TP:499, FP:0, FN:501, TN:0)
+  Calm & Curious: P=1.000, R=0.680, F1=0.810 (TP:680, FP:0, FN:320, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:300, FN:0, TN:700)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:226, FN:0, TN:774)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:119, FN:0, TN:881)
+  toxicity_low: P=1.000, R=0.717, F1=0.835 (TP:717, FP:0, FN:283, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:169, FN:0, TN:831)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:58, FN:0, TN:942)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:295, FN:0, TN:705)
+  creativity_medium: P=1.000, R=0.494, F1=0.661 (TP:494, FP:0, FN:506, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:115, FN:0, TN:885)
+  readability_excellent: P=1.000, R=0.124, F1=0.221 (TP:124, FP:0, FN:876, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:188, FN:0, TN:812)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:364, FN:0, TN:636)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:219, FN:0, TN:781)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:211, FN:0, TN:789)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:569, FN:0, TN:431)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:465, FN:0, TN:535)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:292, FN:0, TN:708)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:103, FN:0, TN:897)
+  toxicity_low: P=1.000, R=0.663, F1=0.797 (TP:663, FP:0, FN:337, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:189, FN:0, TN:811)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:63, FN:0, TN:937)
+  creativity_low: P=1.000, R=0.256, F1=0.408 (TP:256, FP:0, FN:744, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:348, FN:0, TN:652)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:155, FN:0, TN:845)
+  readability_excellent: P=1.000, R=0.161, F1=0.277 (TP:161, FP:0, FN:839, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:141, FN:0, TN:859)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:312, FN:0, TN:688)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:135, FN:0, TN:865)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:167, FN:0, TN:833)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:628, FN:0, TN:372)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:577, FN:0, TN:423)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:261, FN:0, TN:739)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:92, FN:0, TN:908)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:659, FN:0, TN:341)
+  toxicity_medium: P=1.000, R=0.164, F1=0.282 (TP:164, FP:0, FN:836, TN:0)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:80, FN:0, TN:920)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:316, FN:0, TN:684)
+  creativity_medium: P=1.000, R=0.328, F1=0.494 (TP:328, FP:0, FN:672, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:161, FN:0, TN:839)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:174, FN:0, TN:826)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:152, FN:0, TN:848)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:340, FN:0, TN:660)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:136, FN:0, TN:864)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 499, FP: 528, FN: 501, TN: 2472
+  Precisione: 0.4859
+  Recall: 0.4990
+  F1-Score: 0.4924
+
+Calm & Curious:
+  Matrice di Confusione - TP: 680, FP: 1825, FN: 320, TN: 1175
+  Precisione: 0.2715
+  Recall: 0.6800
+  F1-Score: 0.3880
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 518, FP: 1342, FN: 482, TN: 1658
+  Precisione: 0.2785
+  Recall: 0.5180
+  F1-Score: 0.3622
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 1038, FN: 0, TN: 2962
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 412, FN: 0, TN: 3588
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 1380, FP: 1344, FN: 620, TN: 656
+  Precisione: 0.5066
+  Recall: 0.6900
+  F1-Score: 0.5843
+
+toxicity_medium:
+  Matrice di Confusione - TP: 164, FP: 477, FN: 836, TN: 2523
+  Precisione: 0.2559
+  Recall: 0.1640
+  F1-Score: 0.1999
+
+toxicity_high:
+  Matrice di Confusione - TP: 75, FP: 201, FN: 925, TN: 2799
+  Precisione: 0.2717
+  Recall: 0.0750
+  F1-Score: 0.1176
+
+creativity_low:
+  Matrice di Confusione - TP: 256, FP: 944, FN: 744, TN: 2056
+  Precisione: 0.2133
+  Recall: 0.2560
+  F1-Score: 0.2327
+
+creativity_medium:
+  Matrice di Confusione - TP: 822, FP: 665, FN: 1178, TN: 1335
+  Precisione: 0.5528
+  Recall: 0.4110
+  F1-Score: 0.4715
+
+creativity_high:
+  Matrice di Confusione - TP: 0, FP: 582, FN: 0, TN: 3418
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_excellent:
+  Matrice di Confusione - TP: 285, FP: 321, FN: 1715, TN: 1679
+  Precisione: 0.4703
+  Recall: 0.1425
+  F1-Score: 0.2187
+
+readability_good:
+  Matrice di Confusione - TP: 0, FP: 659, FN: 0, TN: 3341
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_average:
+  Matrice di Confusione - TP: 0, FP: 1343, FN: 0, TN: 2657
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 599, FN: 0, TN: 3401
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 4000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/police_vettoriNONpuliti_medoidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 4000
+Cluster trovati: [0, 1, 2, 3]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:171, FN:0, TN:829)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:629, FN:0, TN:371)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:512, FN:0, TN:488)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:280, FN:0, TN:720)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:79, FN:0, TN:921)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:664, FN:0, TN:336)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:128, FN:0, TN:872)
+  toxicity_high: P=1.000, R=0.094, F1=0.172 (TP:94, FP:0, FN:906, TN:0)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:323, FN:0, TN:677)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:286, FN:0, TN:714)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:159, FN:0, TN:841)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:171, FN:0, TN:829)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:170, FN:0, TN:830)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:322, FN:0, TN:678)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:128, FN:0, TN:872)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:160, FN:0, TN:840)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:577, FN:0, TN:423)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:468, FN:0, TN:532)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:308, FN:0, TN:692)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:96, FN:0, TN:904)
+  toxicity_low: P=1.000, R=0.674, F1=0.805 (TP:674, FP:0, FN:326, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:175, FN:0, TN:825)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:57, FN:0, TN:943)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:289, FN:0, TN:711)
+  creativity_medium: P=1.000, R=0.324, F1=0.489 (TP:324, FP:0, FN:676, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:160, FN:0, TN:840)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:166, FN:0, TN:834)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:137, FN:0, TN:863)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:314, FN:0, TN:686)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:125, FN:0, TN:875)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:160, FN:0, TN:840)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:627, FN:0, TN:373)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:497, FN:0, TN:503)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:317, FN:0, TN:683)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:103, FN:0, TN:897)
+  toxicity_low: P=1.000, R=0.661, F1=0.796 (TP:661, FP:0, FN:339, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:180, FN:0, TN:820)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:50, FN:0, TN:950)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:263, FN:0, TN:737)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:350, FN:0, TN:650)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:164, FN:0, TN:836)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:154, FN:0, TN:846)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:156, FN:0, TN:844)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:322, FN:0, TN:678)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:102, FN:0, TN:898)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:179, FN:0, TN:821)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:616, FN:0, TN:384)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:506, FN:0, TN:494)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:264, FN:0, TN:736)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:111, FN:0, TN:889)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:663, FN:0, TN:337)
+  toxicity_medium: P=1.000, R=0.120, F1=0.214 (TP:120, FP:0, FN:880, TN:0)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:88, FN:0, TN:912)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:324, FN:0, TN:676)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:311, FN:0, TN:689)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:177, FN:0, TN:823)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:153, FN:0, TN:847)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:173, FN:0, TN:827)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:348, FN:0, TN:652)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:138, FN:0, TN:862)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 0, FP: 670, FN: 0, TN: 3330
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Calm & Curious:
+  Matrice di Confusione - TP: 0, FP: 2449, FN: 0, TN: 1551
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 0, FP: 1983, FN: 0, TN: 2017
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 1169, FN: 0, TN: 2831
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 389, FN: 0, TN: 3611
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 1335, FP: 1327, FN: 665, TN: 673
+  Precisione: 0.5015
+  Recall: 0.6675
+  F1-Score: 0.5727
+
+toxicity_medium:
+  Matrice di Confusione - TP: 120, FP: 483, FN: 880, TN: 2517
+  Precisione: 0.1990
+  Recall: 0.1200
+  F1-Score: 0.1497
+
+toxicity_high:
+  Matrice di Confusione - TP: 94, FP: 195, FN: 906, TN: 2805
+  Precisione: 0.3253
+  Recall: 0.0940
+  F1-Score: 0.1458
+
+creativity_low:
+  Matrice di Confusione - TP: 0, FP: 1199, FN: 0, TN: 2801
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+creativity_medium:
+  Matrice di Confusione - TP: 324, FP: 947, FN: 676, TN: 2053
+  Precisione: 0.2549
+  Recall: 0.3240
+  F1-Score: 0.2853
+
+creativity_high:
+  Matrice di Confusione - TP: 0, FP: 660, FN: 0, TN: 3340
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_excellent:
+  Matrice di Confusione - TP: 0, FP: 644, FN: 0, TN: 3356
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_good:
+  Matrice di Confusione - TP: 0, FP: 636, FN: 0, TN: 3364
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_average:
+  Matrice di Confusione - TP: 0, FP: 1306, FN: 0, TN: 2694
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 493, FN: 0, TN: 3507
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 4000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/police_vettoripuliti_centroidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 6000
+Cluster trovati: [0, 1, 2, 3, 4, 5]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.411, F1=0.583 (TP:411, FP:0, FN:589, TN:0)
+  Calm & Curious: P=1.000, R=0.646, F1=0.785 (TP:646, FP:0, FN:354, TN:0)
+  Agitated/Reactive: P=1.000, R=0.395, F1=0.566 (TP:395, FP:0, FN:605, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:280, FN:0, TN:720)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:131, FN:0, TN:869)
+  toxicity_low: P=1.000, R=0.688, F1=0.815 (TP:688, FP:0, FN:312, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:162, FN:0, TN:838)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:90, FN:0, TN:910)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:294, FN:0, TN:706)
+  creativity_medium: P=1.000, R=0.470, F1=0.639 (TP:470, FP:0, FN:530, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:141, FN:0, TN:859)
+  readability_excellent: P=1.000, R=0.127, F1=0.225 (TP:127, FP:0, FN:873, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:205, FN:0, TN:795)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:325, FN:0, TN:675)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:205, FN:0, TN:795)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.283, F1=0.441 (TP:283, FP:0, FN:717, TN:0)
+  Calm & Curious: P=1.000, R=0.580, F1=0.734 (TP:580, FP:0, FN:420, TN:0)
+  Agitated/Reactive: P=1.000, R=0.434, F1=0.605 (TP:434, FP:0, FN:566, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:301, FN:0, TN:699)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:111, FN:0, TN:889)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:648, FN:0, TN:352)
+  toxicity_medium: P=1.000, R=0.190, F1=0.319 (TP:190, FP:0, FN:810, TN:0)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:89, FN:0, TN:911)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:297, FN:0, TN:703)
+  creativity_medium: P=1.000, R=0.363, F1=0.533 (TP:363, FP:0, FN:637, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:151, FN:0, TN:849)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:118, FN:0, TN:882)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:165, FN:0, TN:835)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:331, FN:0, TN:669)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:163, FN:0, TN:837)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.467, F1=0.637 (TP:467, FP:0, FN:533, TN:0)
+  Calm & Curious: P=1.000, R=0.636, F1=0.778 (TP:636, FP:0, FN:364, TN:0)
+  Agitated/Reactive: P=1.000, R=0.325, F1=0.491 (TP:325, FP:0, FN:675, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:293, FN:0, TN:707)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:142, FN:0, TN:858)
+  toxicity_low: P=1.000, R=0.701, F1=0.824 (TP:701, FP:0, FN:299, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:177, FN:0, TN:823)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:58, FN:0, TN:942)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:283, FN:0, TN:717)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:520, FN:0, TN:480)
+  creativity_high: P=1.000, R=0.111, F1=0.200 (TP:111, FP:0, FN:889, TN:0)
+  readability_excellent: P=1.000, R=0.110, F1=0.198 (TP:110, FP:0, FN:890, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:188, FN:0, TN:812)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:390, FN:0, TN:610)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:210, FN:0, TN:790)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.416, F1=0.588 (TP:416, FP:0, FN:584, TN:0)
+  Calm & Curious: P=1.000, R=0.636, F1=0.778 (TP:636, FP:0, FN:364, TN:0)
+  Agitated/Reactive: P=1.000, R=0.334, F1=0.501 (TP:334, FP:0, FN:666, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:259, FN:0, TN:741)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:126, FN:0, TN:874)
+  toxicity_low: P=1.000, R=0.699, F1=0.823 (TP:699, FP:0, FN:301, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:184, FN:0, TN:816)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:61, FN:0, TN:939)
+  creativity_low: P=1.000, R=0.314, F1=0.478 (TP:314, FP:0, FN:686, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:473, FN:0, TN:527)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:121, FN:0, TN:879)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:120, FN:0, TN:880)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:170, FN:0, TN:830)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:394, FN:0, TN:606)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:215, FN:0, TN:785)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.452, F1=0.623 (TP:452, FP:0, FN:548, TN:0)
+  Calm & Curious: P=1.000, R=0.630, F1=0.773 (TP:630, FP:0, FN:370, TN:0)
+  Agitated/Reactive: P=1.000, R=0.359, F1=0.528 (TP:359, FP:0, FN:641, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:275, FN:0, TN:725)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:164, FN:0, TN:836)
+  toxicity_low: P=1.000, R=0.715, F1=0.834 (TP:715, FP:0, FN:285, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:150, FN:0, TN:850)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:64, FN:0, TN:936)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:301, FN:0, TN:699)
+  creativity_medium: P=1.000, R=0.476, F1=0.645 (TP:476, FP:0, FN:524, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:136, FN:0, TN:864)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:103, FN:0, TN:897)
+  readability_good: P=1.000, R=0.193, F1=0.324 (TP:193, FP:0, FN:807, TN:0)
+  readability_average: P=1.000, R=0.375, F1=0.545 (TP:375, FP:0, FN:625, TN:0)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:206, FN:0, TN:794)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 5 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.165, F1=0.283 (TP:165, FP:0, FN:835, TN:0)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:628, FN:0, TN:372)
+  Agitated/Reactive: P=1.000, R=0.535, F1=0.697 (TP:535, FP:0, FN:465, TN:0)
+  Downcast & Vulnerable: P=1.000, R=0.301, F1=0.463 (TP:301, FP:0, FN:699, TN:0)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:87, FN:0, TN:913)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:651, FN:0, TN:349)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:173, FN:0, TN:827)
+  toxicity_high: P=1.000, R=0.076, F1=0.141 (TP:76, FP:0, FN:924, TN:0)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:269, FN:0, TN:731)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:323, FN:0, TN:677)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:193, FN:0, TN:807)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:161, FN:0, TN:839)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:139, FN:0, TN:861)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:309, FN:0, TN:691)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:118, FN:0, TN:882)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 2194, FP: 0, FN: 3806, TN: 0
+  Precisione: 1.0000
+  Recall: 0.3657
+  F1-Score: 0.5355
+
+Calm & Curious:
+  Matrice di Confusione - TP: 3128, FP: 628, FN: 1872, TN: 372
+  Precisione: 0.8328
+  Recall: 0.6256
+  F1-Score: 0.7145
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 2382, FP: 0, FN: 3618, TN: 0
+  Precisione: 1.0000
+  Recall: 0.3970
+  F1-Score: 0.5684
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 301, FP: 1408, FN: 699, TN: 3592
+  Precisione: 0.1761
+  Recall: 0.3010
+  F1-Score: 0.2222
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 761, FN: 0, TN: 5239
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 2803, FP: 1299, FN: 1197, TN: 701
+  Precisione: 0.6833
+  Recall: 0.7007
+  F1-Score: 0.6919
+
+toxicity_medium:
+  Matrice di Confusione - TP: 190, FP: 846, FN: 810, TN: 4154
+  Precisione: 0.1834
+  Recall: 0.1900
+  F1-Score: 0.1866
+
+toxicity_high:
+  Matrice di Confusione - TP: 76, FP: 362, FN: 924, TN: 4638
+  Precisione: 0.1735
+  Recall: 0.0760
+  F1-Score: 0.1057
+
+creativity_low:
+  Matrice di Confusione - TP: 314, FP: 1444, FN: 686, TN: 3556
+  Precisione: 0.1786
+  Recall: 0.3140
+  F1-Score: 0.2277
+
+creativity_medium:
+  Matrice di Confusione - TP: 1309, FP: 1316, FN: 1691, TN: 1684
+  Precisione: 0.4987
+  Recall: 0.4363
+  F1-Score: 0.4654
+
+creativity_high:
+  Matrice di Confusione - TP: 111, FP: 742, FN: 889, TN: 4258
+  Precisione: 0.1301
+  Recall: 0.1110
+  F1-Score: 0.1198
+
+readability_excellent:
+  Matrice di Confusione - TP: 237, FP: 502, FN: 1763, TN: 3498
+  Precisione: 0.3207
+  Recall: 0.1185
+  F1-Score: 0.1731
+
+readability_good:
+  Matrice di Confusione - TP: 193, FP: 867, FN: 807, TN: 4133
+  Precisione: 0.1821
+  Recall: 0.1930
+  F1-Score: 0.1874
+
+readability_average:
+  Matrice di Confusione - TP: 375, FP: 1749, FN: 625, TN: 3251
+  Precisione: 0.1766
+  Recall: 0.3750
+  F1-Score: 0.2401
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 1117, FN: 0, TN: 4883
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 6000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Processando file: risultati_finali_cluster/police_vettoripuliti_medoidi_generati_annotated_c.jsonl
+==================================================
+Campioni totali processati: 6000
+Cluster trovati: [0, 1, 2, 3, 4, 5]
+
+RISULTATI SPECIFICI PER CLUSTER:
+----------------------------------------
+
+Cluster 0 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.487, F1=0.655 (TP:487, FP:0, FN:513, TN:0)
+  Calm & Curious: P=1.000, R=0.647, F1=0.786 (TP:647, FP:0, FN:353, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:326, FN:0, TN:674)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:242, FN:0, TN:758)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:155, FN:0, TN:845)
+  toxicity_low: P=1.000, R=0.704, F1=0.826 (TP:704, FP:0, FN:296, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:166, FN:0, TN:834)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:63, FN:0, TN:937)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:282, FN:0, TN:718)
+  creativity_medium: P=1.000, R=0.512, F1=0.677 (TP:512, FP:0, FN:488, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:107, FN:0, TN:893)
+  readability_excellent: P=1.000, R=0.121, F1=0.216 (TP:121, FP:0, FN:879, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:215, FN:0, TN:785)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:349, FN:0, TN:651)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:203, FN:0, TN:797)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 1 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:144, FN:0, TN:856)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:621, FN:0, TN:379)
+  Agitated/Reactive: P=1.000, R=0.568, F1=0.724 (TP:568, FP:0, FN:432, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:258, FN:0, TN:742)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:92, FN:0, TN:908)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:661, FN:0, TN:339)
+  toxicity_medium: P=1.000, R=0.148, F1=0.258 (TP:148, FP:0, FN:852, TN:0)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:78, FN:0, TN:922)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:277, FN:0, TN:723)
+  creativity_medium: P=1.000, R=0.301, F1=0.463 (TP:301, FP:0, FN:699, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:190, FN:0, TN:810)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:162, FN:0, TN:838)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:139, FN:0, TN:861)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:303, FN:0, TN:697)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:102, FN:0, TN:898)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 2 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.559, F1=0.717 (TP:559, FP:0, FN:441, TN:0)
+  Calm & Curious: P=1.000, R=0.641, F1=0.781 (TP:641, FP:0, FN:359, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:263, FN:0, TN:737)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:240, FN:0, TN:760)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:131, FN:0, TN:869)
+  toxicity_low: P=1.000, R=0.735, F1=0.847 (TP:735, FP:0, FN:265, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:164, FN:0, TN:836)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:36, FN:0, TN:964)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:274, FN:0, TN:726)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:540, FN:0, TN:460)
+  creativity_high: P=1.000, R=0.116, F1=0.208 (TP:116, FP:0, FN:884, TN:0)
+  readability_excellent: P=1.000, R=0.093, F1=0.170 (TP:93, FP:0, FN:907, TN:0)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:234, FN:0, TN:766)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:387, FN:0, TN:613)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:194, FN:0, TN:806)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 3 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.486, F1=0.654 (TP:486, FP:0, FN:514, TN:0)
+  Calm & Curious: P=1.000, R=0.638, F1=0.779 (TP:638, FP:0, FN:362, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:300, FN:0, TN:700)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:220, FN:0, TN:780)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:119, FN:0, TN:881)
+  toxicity_low: P=1.000, R=0.730, F1=0.844 (TP:730, FP:0, FN:270, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:154, FN:0, TN:846)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:62, FN:0, TN:938)
+  creativity_low: P=1.000, R=0.322, F1=0.487 (TP:322, FP:0, FN:678, TN:0)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:474, FN:0, TN:526)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:112, FN:0, TN:888)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:81, FN:0, TN:919)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:178, FN:0, TN:822)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:379, FN:0, TN:621)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:220, FN:0, TN:780)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 4 (campioni: 1000):
+  Positive & Uplifting: P=1.000, R=0.486, F1=0.654 (TP:486, FP:0, FN:514, TN:0)
+  Calm & Curious: P=1.000, R=0.660, F1=0.795 (TP:660, FP:0, FN:340, TN:0)
+  Agitated/Reactive: P=0.000, R=0.000, F1=0.000 (TP:0, FP:312, FN:0, TN:688)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:245, FN:0, TN:755)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:122, FN:0, TN:878)
+  toxicity_low: P=1.000, R=0.731, F1=0.845 (TP:731, FP:0, FN:269, TN:0)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:158, FN:0, TN:842)
+  toxicity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:54, FN:0, TN:946)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:319, FN:0, TN:681)
+  creativity_medium: P=1.000, R=0.461, F1=0.631 (TP:461, FP:0, FN:539, TN:0)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:113, FN:0, TN:887)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:108, FN:0, TN:892)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:209, FN:0, TN:791)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:357, FN:0, TN:643)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:206, FN:0, TN:794)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+Cluster 5 (campioni: 1000):
+  Positive & Uplifting: P=0.000, R=0.000, F1=0.000 (TP:0, FP:158, FN:0, TN:842)
+  Calm & Curious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:634, FN:0, TN:366)
+  Agitated/Reactive: P=1.000, R=0.551, F1=0.711 (TP:551, FP:0, FN:449, TN:0)
+  Downcast & Vulnerable: P=0.000, R=0.000, F1=0.000 (TP:0, FP:271, FN:0, TN:729)
+  Reflective & Anxious: P=0.000, R=0.000, F1=0.000 (TP:0, FP:93, FN:0, TN:907)
+  toxicity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:656, FN:0, TN:344)
+  toxicity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:145, FN:0, TN:855)
+  toxicity_high: P=1.000, R=0.076, F1=0.141 (TP:76, FP:0, FN:924, TN:0)
+  creativity_low: P=0.000, R=0.000, F1=0.000 (TP:0, FP:328, FN:0, TN:672)
+  creativity_medium: P=0.000, R=0.000, F1=0.000 (TP:0, FP:301, FN:0, TN:699)
+  creativity_high: P=0.000, R=0.000, F1=0.000 (TP:0, FP:157, FN:0, TN:843)
+  readability_excellent: P=0.000, R=0.000, F1=0.000 (TP:0, FP:131, FN:0, TN:869)
+  readability_good: P=0.000, R=0.000, F1=0.000 (TP:0, FP:151, FN:0, TN:849)
+  readability_average: P=0.000, R=0.000, F1=0.000 (TP:0, FP:368, FN:0, TN:632)
+  readability_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:109, FN:0, TN:891)
+  readability_very_poor: P=0.000, R=0.000, F1=0.000 (TP:0, FP:0, FN:0, TN:1000)
+
+RISULTATI SPECIFICI DEL FILE:
+------------------------------
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 2018, FP: 302, FN: 1982, TN: 1698
+  Precisione: 0.8698
+  Recall: 0.5045
+  F1-Score: 0.6386
+
+Calm & Curious:
+  Matrice di Confusione - TP: 2586, FP: 1255, FN: 1414, TN: 745
+  Precisione: 0.6733
+  Recall: 0.6465
+  F1-Score: 0.6596
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 1119, FP: 1201, FN: 881, TN: 2799
+  Precisione: 0.4823
+  Recall: 0.5595
+  F1-Score: 0.5181
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 0, FP: 1476, FN: 0, TN: 4524
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 712, FN: 0, TN: 5288
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 2900, FP: 1317, FN: 1100, TN: 683
+  Precisione: 0.6877
+  Recall: 0.7250
+  F1-Score: 0.7059
+
+toxicity_medium:
+  Matrice di Confusione - TP: 148, FP: 787, FN: 852, TN: 4213
+  Precisione: 0.1583
+  Recall: 0.1480
+  F1-Score: 0.1530
+
+toxicity_high:
+  Matrice di Confusione - TP: 76, FP: 293, FN: 924, TN: 4707
+  Precisione: 0.2060
+  Recall: 0.0760
+  F1-Score: 0.1110
+
+creativity_low:
+  Matrice di Confusione - TP: 322, FP: 1480, FN: 678, TN: 3520
+  Precisione: 0.1787
+  Recall: 0.3220
+  F1-Score: 0.2298
+
+creativity_medium:
+  Matrice di Confusione - TP: 1274, FP: 1315, FN: 1726, TN: 1685
+  Precisione: 0.4921
+  Recall: 0.4247
+  F1-Score: 0.4559
+
+creativity_high:
+  Matrice di Confusione - TP: 116, FP: 679, FN: 884, TN: 4321
+  Precisione: 0.1459
+  Recall: 0.1160
+  F1-Score: 0.1292
+
+readability_excellent:
+  Matrice di Confusione - TP: 214, FP: 482, FN: 1786, TN: 3518
+  Precisione: 0.3075
+  Recall: 0.1070
+  F1-Score: 0.1588
+
+readability_good:
+  Matrice di Confusione - TP: 0, FP: 1126, FN: 0, TN: 4874
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_average:
+  Matrice di Confusione - TP: 0, FP: 2143, FN: 0, TN: 3857
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 1034, FN: 0, TN: 4966
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 6000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+
+============================================================
+RISULTATI GLOBALI ATTRAVERSO TUTTI I FILE
+============================================================
+
+Positive & Uplifting:
+  Matrice di Confusione - TP: 20644, FP: 3966, FN: 9356, TN: 9034
+  Precisione: 0.8388
+  Recall: 0.6881
+  F1-Score: 0.7561
+
+Calm & Curious:
+  Matrice di Confusione - TP: 14496, FP: 9846, FN: 10504, TN: 8154
+  Precisione: 0.5955
+  Recall: 0.5798
+  F1-Score: 0.5876
+
+Agitated/Reactive:
+  Matrice di Confusione - TP: 4398, FP: 6726, FN: 8602, TN: 23274
+  Precisione: 0.3954
+  Recall: 0.3383
+  F1-Score: 0.3646
+
+Downcast & Vulnerable:
+  Matrice di Confusione - TP: 301, FP: 6230, FN: 699, TN: 35770
+  Precisione: 0.0461
+  Recall: 0.3010
+  F1-Score: 0.0799
+
+Reflective & Anxious:
+  Matrice di Confusione - TP: 0, FP: 3157, FN: 0, TN: 39843
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+toxicity_low:
+  Matrice di Confusione - TP: 28642, FP: 5866, FN: 5358, TN: 3134
+  Precisione: 0.8300
+  Recall: 0.8424
+  F1-Score: 0.8362
+
+toxicity_medium:
+  Matrice di Confusione - TP: 622, FP: 3385, FN: 3378, TN: 35615
+  Precisione: 0.1552
+  Recall: 0.1555
+  F1-Score: 0.1554
+
+toxicity_high:
+  Matrice di Confusione - TP: 418, FP: 1586, FN: 4582, TN: 36414
+  Precisione: 0.2086
+  Recall: 0.0836
+  F1-Score: 0.1194
+
+creativity_low:
+  Matrice di Confusione - TP: 2705, FP: 8664, FN: 7295, TN: 24336
+  Precisione: 0.2379
+  Recall: 0.2705
+  F1-Score: 0.2532
+
+creativity_medium:
+  Matrice di Confusione - TP: 12161, FP: 11394, FN: 8839, TN: 10606
+  Precisione: 0.5163
+  Recall: 0.5791
+  F1-Score: 0.5459
+
+creativity_high:
+  Matrice di Confusione - TP: 460, FP: 3880, FN: 4540, TN: 34120
+  Precisione: 0.1060
+  Recall: 0.0920
+  F1-Score: 0.0985
+
+readability_excellent:
+  Matrice di Confusione - TP: 1743, FP: 3025, FN: 14257, TN: 23975
+  Precisione: 0.3656
+  Recall: 0.1089
+  F1-Score: 0.1679
+
+readability_good:
+  Matrice di Confusione - TP: 1613, FP: 9625, FN: 3387, TN: 28375
+  Precisione: 0.1435
+  Recall: 0.3226
+  F1-Score: 0.1987
+
+readability_average:
+  Matrice di Confusione - TP: 2808, FP: 12944, FN: 4192, TN: 23056
+  Precisione: 0.1783
+  Recall: 0.4011
+  F1-Score: 0.2468
+
+readability_poor:
+  Matrice di Confusione - TP: 0, FP: 6862, FN: 0, TN: 36138
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+readability_very_poor:
+  Matrice di Confusione - TP: 0, FP: 0, FN: 0, TN: 43000
+  Precisione: 0.0000
+  Recall: 0.0000
+  F1-Score: 0.0000
+
+
+STATISTICHE RIASSUNTIVE:
+Precisione Media: 0.2886
+Recall Medio: 0.2977
+F1-Score Medio: 0.2756
+Miglior F1-Score: 0.8362 (toxicity_low)
+Peggior F1-Score: 0.0000 (Reflective & Anxious)
